@@ -1,0 +1,40 @@
+---
+layout: layout.njk
+title: Projects
+---
+
+<h1>{{ title }}</h1>
+<p>This is the Projects page where you can showcase your work.</p>
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+  <div
+    class="col">
+    <!-- Project 1 START -->
+    <div class="card h-100">
+      <a href="/landing_pages/landing_page-1">
+        <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Project {{ i }} image">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">Project </h5>
+        <p class="card-text">This is a short description of Project {{ i }}. Lorem ipsum dolor sit amet, consectetur adipiscing
+          elit.</p>
+      </div>
+    </div>
+    </div>
+      <div
+    class="col">
+    <!-- Project 1 END -->    
+    <!-- Project 2 START -->
+    <div class="card h-100">
+      <a href="/landing_pages/landing_page-1">
+      {% image "images/300x200.png", "An example image", "100vw" %}
+        <img src="" class="card-img-top" alt="Project {{ i }} image">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">Project </h5>
+        <p class="card-text">This is a short description of Project {{ i }}. Lorem ipsum dolor sit amet, consectetur adipiscing
+          elit.</p>
+      </div>
+    </div>
+    <!-- Project 2 END -->
+  </div>
+</div>
