@@ -1,18 +1,16 @@
-module.exports = function (eleventyConfig) {
-    eleventyConfig.setTemplateFormats(["md", "html"]);
-
-    // Copy static files to output folder
-    eleventyConfig.addPassthroughCopy('src/images');
-    eleventyConfig.addPassthroughCopy('src/css');
-    eleventyConfig.addPassthroughCopy('src/js');
-
-    // Set input and output folders
+module.exports = function(eleventyConfig) {
+    // Add a collection for blog posts
+    eleventyConfig.addCollection("posts", function(collection) {
+      return collection.getFilteredByGlob("posts/*.md");
+    });
+  
     return {
-        dir: {
-            input: '_src',
-            output: '_site',
-            includes: '_includes',
-            layouts: '_layouts'
-        }
+      dir: {
+        input: ".",
+        includes: "_includes",
+        output: "_site"
+      },
+      passthroughFileCopy: true,
     };
-};
+  };
+  
