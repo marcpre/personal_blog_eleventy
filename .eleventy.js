@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
   return {
     dir: {
       input: 'pages',
-      includes: "_includes",
+      includes: '../_includes', // Change this line to point to the correct _includes folder
       output: "_site"
     },
     passthroughFileCopy: true,
