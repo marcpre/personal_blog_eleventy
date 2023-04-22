@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Annotator</title>
+    <style>
+        body {
+            width: 300px;
+            font-family: Arial, sans-serif;
+            padding: 8px;
+        }
+
+        #urlInput {
+            width: 100%;
+            margin-bottom: 8px;
+        }
+
+        #annotatedUrls {
+            margin-top: 8px;
+        }
+
+        textarea {
+            display: block;
+            width: 100%;
+            margin-top: 8px;
+            resize: vertical;
+        }
+
+        input[type="number"] {
+            display: block;
+            width: 100%;
+            margin-top: 8px;
+        }
+
+        button {
+            margin-top: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Annotated URLs:</h2>
+    <div id="annotatedUrls"></div>
+    <script src="popup.js"></script>
+</body>
+
+</html>
