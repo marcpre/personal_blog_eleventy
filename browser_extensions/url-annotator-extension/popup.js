@@ -1,14 +1,23 @@
-document.addEventListener("DOMContentLoaded", () => {
-    const annotatedUrls = document.getElementById("annotatedUrls");
-  
-    chrome.storage.local.get("annotatedUrls", (data) => {
-      if (data.annotatedUrls) {
-        data.annotatedUrls.forEach((urlData) => {
-          annotateUrl(urlData.url, urlData.description, urlData.number);
-        });
-      }
-    });
-  
+document.addEventListener("DOMContentLoaded", async () => {
+  const annotatedUrls = document.getElementById("annotatedUrls");
+
+  chrome.storage.local.get("annotatedUrls", (data) => {
+    if (data.annotatedUrls) {
+      data.annotatedUrls.forEach((urlData) => {
+        annotateUrl(
+          urlData.url,
+          urlData.description,
+          urlData.number,
+          urlData.title,
+          data.annotatedUrls
+        );
+      });
+
+      renderChart(data.annotatedUrls);
+    }
+  });
+
+  await new Promise((resolve) => {
     chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
       const currentUrl = tabs[0].url;
       chrome.storage.local.get("annotatedUrls", (data) => {
@@ -17,10 +26,11 @@ document.addEventListener("DOMContentLoaded", () => {
           annotateUrl(currentUrl);
           saveAnnotatedUrl(currentUrl);
         }
+        resolve();
       });
     });
+  });
 
-      // Merged code from background_worker.js
   chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     if (request.action === "getAnnotatedUrls") {
       chrome.storage.local.get("annotatedUrls", (data) => {
@@ -39,7 +49,9 @@ document.addEventListener("DOMContentLoaded", () => {
     } else if (request.action === "removeAnnotatedUrl") {
       chrome.storage.local.get("annotatedUrls", (data) => {
         let annotatedUrls = data.annotatedUrls || [];
-        annotatedUrls = annotatedUrls.filter((urlData) => urlData.url !== request.url);
+        annotatedUrls = annotatedUrls.filter(
+          (urlData) => urlData.url !== request.url
+        );
         chrome.storage.local.set({ annotatedUrls: annotatedUrls }, () => {
           sendResponse({ success: true });
         });
@@ -47,70 +59,174 @@ document.addEventListener("DOMContentLoaded", () => {
       return true;
     }
   });
-  
-  function annotateUrl(url, description = "", number = "") {
-    const urlItem = document.createElement("div");
-    urlItem.className = "urlItem";
-  
-      const urlSpan = document.createElement("span");
-      urlSpan.textContent = url;
-      urlItem.appendChild(urlSpan);
-    
-      const annotationInput = document.createElement("textarea");
-      annotationInput.value = description;
-      annotationInput.placeholder = "Add a longer description";
-      annotationInput.addEventListener("input", () => {
-        updateAnnotatedUrl(url, annotationInput.value, numberInput.value);
-      });
-      urlItem.appendChild(annotationInput);
-  
-      const numberInput = document.createElement("input");
-      numberInput.type = "number";
-      numberInput.value = number;
-      numberInput.placeholder = "Add a positive or negative number";
-      numberInput.addEventListener("input", () => {
-        numberInput.style.color = numberInput.value >= 0 ? "green" : "red";
-        updateAnnotatedUrl(url, annotationInput.value, numberInput.value);
-      });
-      urlItem.appendChild(numberInput);
-  
-      const removeBtn = document.createElement("button");
-      removeBtn.textContent = "Remove";
-      removeBtn.addEventListener("click", () => {
-        annotatedUrls.removeChild(urlItem);
-        removeAnnotatedUrl(url);
-      });
-      urlItem.appendChild(removeBtn);
-  
-      annotatedUrls.appendChild(urlItem);
-    }
-  
-    function saveAnnotatedUrl(url) {
-      chrome.storage.local.get("annotatedUrls", (data) => {
-        let annotatedUrls = data.annotatedUrls || [];
-        annotatedUrls.push({ url: url, description: "", number: "" });
-        chrome.storage.local.set({ annotatedUrls: annotatedUrls });
-      });
-    }
-  
-    function removeAnnotatedUrl(url) {
-      chrome.storage.local.get("annotatedUrls", (data) => {
-        let annotatedUrls = data.annotatedUrls || [];
-        annotatedUrls = annotatedUrls.filter((urlData) => urlData.url !== url);
-        chrome.storage.local.set({ annotatedUrls: annotatedUrls });
-      });
+
+  function annotateUrl(
+    url,
+    description = "",
+    number = 0,
+    title = "",
+    annotatedUrls = null
+  ) {
+    const template = document.getElementById("urlItemTemplate");
+    const urlItem = template.content.cloneNode(true);
+
+    const rowNumber = urlItem.querySelector(".rowNumber");
+    const tbody = document.querySelector("#annotatedUrls tbody");
+    rowNumber.textContent = tbody.getElementsByTagName("tr").length + 1;
+
+    const urlSpan = urlItem.querySelector(".urlSpan");
+    const shortenedUrl = shortenUrl(url);
+    const urlAnchor = document.createElement("a");
+    urlAnchor.href = url;
+    urlAnchor.textContent = shortenedUrl;
+    urlAnchor.target = "_blank";
+    urlSpan.textContent = "";
+    urlSpan.appendChild(urlAnchor);
+
+    const annotationInput = urlItem.querySelector(".annotationInput");
+    annotationInput.value = description;
+    annotationInput.addEventListener("input", async () => {
+      await updateAnnotatedUrl(
+        url,
+        annotationInput.value,
+        numberInput.value,
+        titleInput.value
+      );
+      if (annotatedUrls) {
+        renderChart(annotatedUrls);
+      }
+    });
+
+    const numberInput = urlItem.querySelector(".numberInput");
+    numberInput.value = number === "" ? 0 : number;
+    numberInput.style.color = numberInput.value >= 0 ? "green" : "red";
+    numberInput.addEventListener("input", async () => {
+      numberInput.style.color = numberInput.value >= 0 ? "green" : "red";
+      await updateAnnotatedUrl(
+        url,
+        annotationInput.value,
+        numberInput.value,
+        titleInput.value
+      );
+      if (annotatedUrls) {
+        renderChart(annotatedUrls);
+      }
+    });
+
+    const titleInput = urlItem.querySelector(".titleInput");
+    titleInput.value = title;
+    titleInput.addEventListener("input", async () => {
+      await updateAnnotatedUrl(
+        url,
+        annotationInput.value,
+        numberInput.value,
+        titleInput.value
+      );
+      if (annotatedUrls) {
+        renderChart(annotatedUrls);
+      }
+    });
+
+    const removeBtn = urlItem.querySelector(".removeBtn");
+    removeBtn.addEventListener("click", () => {
+      const parentRow = removeBtn.closest("tr");
+      tbody.removeChild(parentRow);
+      removeAnnotatedUrl(url);
+      updateRowNumbers(tbody);
+    });
+
+    tbody.appendChild(urlItem);
+  }
+
+  function shortenUrl(url, maxLength = 30) {
+    if (url.length <= maxLength) {
+      return url;
     }
 
-    function updateAnnotatedUrl(url, description, number) {
+    const startLength = Math.floor((maxLength - 3) / 2);
+    const endLength = maxLength - 3 - startLength;
+    return url.slice(0, startLength) + "..." + url.slice(-endLength);
+  }
+
+  function updateRowNumbers(tbody) {
+    const rows = tbody.getElementsByTagName("tr");
+    for (let i = 0; i < rows.length; i++) {
+      const rowNumber = rows[i].querySelector(".rowNumber");
+      rowNumber.textContent = i + 1;
+    }
+  }
+
+  function saveAnnotatedUrl(url) {
+    chrome.storage.local.get("annotatedUrls", (data) => {
+      let annotatedUrls = data.annotatedUrls || [];
+      annotatedUrls.push({ url: url, description: "", number: "", title: "" }); // Add title here
+      chrome.storage.local.set({ annotatedUrls: annotatedUrls });
+    });
+  }
+
+  function removeAnnotatedUrl(url) {
+    chrome.storage.local.get("annotatedUrls", (data) => {
+      let annotatedUrls = data.annotatedUrls || [];
+      annotatedUrls = annotatedUrls.filter((urlData) => urlData.url !== url);
+      chrome.storage.local.set({ annotatedUrls: annotatedUrls });
+    });
+  }
+
+  function updateAnnotatedUrl(url, description, number, title) {
+    return new Promise((resolve) => {
       chrome.storage.local.get("annotatedUrls", (data) => {
         let annotatedUrls = data.annotatedUrls || [];
         const index = annotatedUrls.findIndex((urlData) => urlData.url === url);
         if (index !== -1) {
           annotatedUrls[index].description = description;
-          annotatedUrls[index].number = number;
-          chrome.storage.local.set({ annotatedUrls: annotatedUrls });
+          annotatedUrls[index].number = parseInt(number) || 0;
+          annotatedUrls[index].title = title;
+          chrome.storage.local.set({ annotatedUrls: annotatedUrls }, () => {
+            resolve();
+          });
+        } else {
+          resolve();
         }
       });
-    }
+    });
+  }
+});
+
+// Initialize the chart outside of the DOMContentLoaded event listener
+let chart;
+
+function renderChart(data) {
+  const ctx = document.getElementById("urlChart").getContext("2d");
+
+  const labels = data.map((item) => item.title);
+  const values = data.map((item) =>
+    item.number === "" ? 0 : parseInt(item.number)
+  );
+
+  if (chart) {
+    chart.destroy();
+  }
+
+  chart = new Chart(ctx, {
+    type: "line",
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: "Number",
+          data: values,
+          backgroundColor: "rgba(75, 192, 192, 0.2)",
+          borderColor: "rgba(75, 192, 192, 1)",
+          borderWidth: 1,
+        },
+      ],
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true,
+        },
+      },
+    },
   });
-  
+}

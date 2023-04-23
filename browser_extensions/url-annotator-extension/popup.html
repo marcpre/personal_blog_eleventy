@@ -6,62 +6,82 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>URL Annotator</title>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
     <style>
-        body {
-            width: 300px;
-            font-family: Arial, sans-serif;
-            padding: 8px;
-        }
+    body {
+        width: 800px;
+        font-family: Arial, sans-serif;
+        padding: 8px;
+    }
 
-        #urlInput {
-            width: 100%;
-            margin-bottom: 8px;
-        }
+    .table-responsive {
+        max-height: 300px; /* Set the max height for the table container */
+        overflow: auto;
+    }
 
-        #annotatedUrls {
-            margin-top: 8px;
-        }
+    #urlInput {
+        width: 100%;
+        margin-bottom: 8px;
+    }
 
-        textarea {
-            resize: vertical;
-        }
+  #annotatedUrls {
+      margin-top: 8px;
+  }
 
-        input[type="number"] {
-            margin-top: 8px;
-        }
+  textarea {
+      resize: vertical;
+  }
 
-        button {
-            margin-top: 8px;
-        }
+  input[type="number"] {
+      margin-top: 8px;
+  }
+
+  button {
+      margin-top: 8px;
+  }
     </style>
+
+<script src="./js/chart.min.js"></script>
 </head>
 
 <body>
-    <h2>Annotated URLs:</h2>
-    <div id="annotatedUrls"></div>
+    <h2>Customer Journey Benchmarking:</h2>
+    
+    <div class="table-responsive">
+    <table class="table table-bordered" id="annotatedUrls">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Url</th>
+                <th scope="col">Title</th>
+                <th scope="col">Number</th>
+                <th scope="col">Description</th>
+                <th scope="col">Remove Button</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    </div>
 
     <template id="urlItemTemplate">
-        <div class="urlItem mb-3">
-            <div class="row">
-                <div class="col-4">
-                    <span class="urlSpan"></span>
-                </div>
-                <div class="col-4">
-                    <textarea class="annotationInput form-control form-control-sm" placeholder="Add a description" rows="1"></textarea>
-                </div>
-                <div class="col-2">
-                    <input type="number" class="numberInput form-control form-control-sm" placeholder="Add a number">
-                </div>
-                <div class="col-2">
-                    <button class="removeBtn btn btn-danger btn-sm">Remove</button>
-                </div>
-            </div>
-        </div>
+        <tr class="urlItem">
+            <th scope="row" class="rowNumber"></th>
+            <td><span class="urlSpan"></span></td>
+            <td><input type="text" class="titleInput form-control form-control-sm" placeholder="Add a title"></td>
+            <td><input type="number" class="numberInput form-control form-control-sm" placeholder="Add a number"></td>
+            <td><textarea class="annotationInput form-control form-control-sm" placeholder="Add a description" rows="1"></textarea></td>
+            <td><button class="removeBtn btn btn-danger btn-sm">Remove</button></td>
+        </tr>
     </template>
+
+    <div>
+        <canvas id="urlChart"></canvas>
+      </div>
+      
 
     <script src="popup.js"></script>
 </body>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+<script src="./js/bootstrap.bundle.min.js"></script>
 </html>
