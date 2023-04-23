@@ -190,6 +190,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       });
     });
   }
+ 
 });
 
 // Initialize the chart outside of the DOMContentLoaded event listener
