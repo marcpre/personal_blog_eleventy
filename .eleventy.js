@@ -13,8 +13,14 @@ module.exports = function(eleventyConfig) {
 
   // Add a collection for blog posts
   eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getFilteredByGlob("posts/*.md");
+    return collection.getFilteredByGlob("pages/posts/*.md");
   });
+  
+
+  const { getTweetEmbed } = require("./_data/tweet.js");
+  eleventyConfig.addNunjucksAsyncShortcode("tweet", getTweetEmbed);
+  eleventyConfig.addLiquidShortcode("tweet", getTweetEmbed);
+ 
 
   return {
     dir: {
