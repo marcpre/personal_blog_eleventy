@@ -6,3 +6,4 @@ Include images:
 
 
 "{% image "images/example-image.jpg", "An example image", "100vw" %}"
+
