@@ -1,4 +1,4 @@
-in# personal_blog_eleventy
+# personal_blog_eleventy
 
 ## Images
 
