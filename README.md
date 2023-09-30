@@ -12,9 +12,3 @@ Include images:
 
 
 
-
-
-
-
-
-
