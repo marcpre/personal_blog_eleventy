@@ -55,12 +55,66 @@ main {
 
   </main>
 
+
+<!-- Newsletter Sign Up Form START -->
+<div class="container mb-4">
+  <div class="row">
+    <!-- Text Section -->
+    <div class="col-md-6 d-flex flex-column justify-content-center">
+      <h2>Subscribe to My Newsletter</h2>
+      <p>Stay updated with our latest news, articles and updates. Subscribe now!</p>
+    </div>
+
+    <!-- Form Section -->
+    <div class="col-md-6">
+      <!-- Success Alert -->
+      <div class="alert alert-success d-none" id="successAlert" role="alert">
+        Thank you for subscribing!
+      </div>
+      
+      <!-- Sign Up Form -->
+      <form id="newsletterForm" action="https://docs.google.com/forms/d/e/1FAIpQLScxygXEjCDyjDQigvw3Fi3kC2E4bwbn7faIh4p8LQ1W0XSyWg/formResponse" method="post" target="hidden_iframe">
+        <div class="row">
+          <div class="col">
+            <div class="mb-3">
+              <input type="text" class="form-control" id="firstname" name="entry.475906896" placeholder="Your firstname" required>
+            </div>
+          </div>
+          <div class="col">
+            <div class="mb-3">
+              <input type="text" class="form-control" id="lastname" name="entry.1858978622" placeholder="Your lastname" required>
+            </div>
+          </div>
+        </div>
+        <div class="mb-3">
+          <input type="email" class="form-control" id="email" name="entry.1116419239" placeholder="Input your best Email Address" required>
+        </div>
+        <button type="submit" class="btn btn-dark">Subscribe</button>
+      </form>
+      
+      <!-- Hidden iframe for form submission -->
+      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
+    </div>
+  </div>
+</div>
+<!-- Newsletter Sign Up Form END -->
+
+
+
 <!-- Add a Bootstrap footer -->
 <footer class="footer mt-auto py-3">
   <div class="container">
     <span class="text-muted">&copy; 2023 Built with Love</span>
   </div>
 </footer>
+
+<!-- JavaScript to handle form submission -->
+<script>
+  document.getElementById('newsletterForm').addEventListener('submit', function() {
+    document.getElementById('successAlert').classList.remove('d-none');
+  });
+</script>
+
 
   <!-- Add the Bootstrap JS CDN link -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
