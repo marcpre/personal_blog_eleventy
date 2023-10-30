@@ -14,7 +14,8 @@ Include images:
 
 # Topics Ideas
 1. Whats the fastest way to evaluate a product, faster than MVP
-2. Working on the side 
+2. Working on the side
+3. Get customers
 
 
 
