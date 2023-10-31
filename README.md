@@ -20,5 +20,3 @@ Include images:
 5. 
 
 
-
-
