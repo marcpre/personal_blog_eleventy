@@ -16,6 +16,8 @@ Include images:
 1. Whats the fastest way to evaluate a product, faster than MVP
 2. Working on the side
 3. Get customers
+4. KI-Auswirkungen auf Freie Berufe
+5. 
 
 
 
