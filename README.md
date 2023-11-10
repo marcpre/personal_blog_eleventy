@@ -23,6 +23,7 @@ Include images:
 8. Analyse von chilligen single founder geschäftsmodelle wie zB Buildwith.com
 9. AI Agents the paper from a16z podcast
 10. AI in children toys
+11. Content & Traffic generation with AI
 
 
 
