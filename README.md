@@ -22,7 +22,7 @@ Include images:
 7. time mgmt as sideproject founder
 8. Analyse von chilligen single founder geschäftsmodelle wie zB Buildwith.com
 9. AI Agents the paper from a16z podcast
-10. 
+10. AI in children toys
 
 
 
