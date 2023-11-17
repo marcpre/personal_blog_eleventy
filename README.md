@@ -29,8 +29,3 @@ Include images:
 14. AI in a kids toy
 15. Importance of knowledge bases for AI
 
-
-
-
-
-
