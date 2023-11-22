@@ -28,4 +28,5 @@ Include images:
 13. Traffic Cost and Tweet Bot
 14. AI in a kids toy
 15. Importance of knowledge bases for AI
+16. Google deep mind paper about AI classification (NY Times podcast with Sam Altman)
 
