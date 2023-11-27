@@ -31,4 +31,5 @@ Include images:
 16. Google deep mind paper about AI classification (NY Times podcast with Sam Altman)
 17. AI Safety module
 18. AI and relationships
+19. AI when creating a presentation
 
