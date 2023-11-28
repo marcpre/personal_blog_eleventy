@@ -32,4 +32,5 @@ Include images:
 17. AI Safety module
 18. AI and relationships
 19. AI when creating a presentation
+20. How to check the quality of an llm as business
 
