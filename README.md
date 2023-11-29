@@ -33,4 +33,5 @@ Include images:
 18. AI and relationships
 19. AI when creating a presentation
 20. How to check the quality of an llm as business
+21. Create a multiplayer game with AI
 
