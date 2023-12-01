@@ -35,4 +35,5 @@ Include images:
 20. How to check the quality of an llm as business
 21. Create a multiplayer game with AI
 22. Frame for bootstrapping business on the side (what works and what does not?)
+23. Create a post of example content filters
 
