@@ -36,4 +36,5 @@ Include images:
 21. Create a multiplayer game with AI
 22. Frame for bootstrapping business on the side (what works and what does not?)
 23. Create a post of example content filters
+24. Hyperrealistic images on dalle3, sdxl, and midjourney --> create a study
 
