@@ -37,4 +37,5 @@ Include images:
 22. Frame for bootstrapping business on the side (what works and what does not?)
 23. Create a post of example content filters
 24. Hyperrealistic images on dalle3, sdxl, and midjourney --> create a study
+25. Open Source vs. Closed Source LLM --> +/-, Strategie discussion, which will win?
 
