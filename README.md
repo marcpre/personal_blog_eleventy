@@ -39,4 +39,5 @@ Include images:
 24. Hyperrealistic images on dalle3, sdxl, and midjourney --> create a study
 25. Open Source vs. Closed Source LLM --> +/-, Strategie discussion, which will win?
 26. Why Gemini is much better?
+27. Realistic benchmark of models
 
