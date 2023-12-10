@@ -40,4 +40,5 @@ Include images:
 25. Open Source vs. Closed Source LLM --> +/-, Strategie discussion, which will win?
 26. Why Gemini is much better?
 27. Realistic benchmark of models
+28. Traffic generation ways
 
