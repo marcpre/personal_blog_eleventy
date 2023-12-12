@@ -38,7 +38,8 @@ Include images:
 23. Create a post of example content filters
 24. Hyperrealistic images on dalle3, sdxl, and midjourney --> create a study
 25. Open Source vs. Closed Source LLM --> +/-, Strategie discussion, which will win?
-26. Why Gemini is much better?
-27. Realistic benchmark of models
-28. Traffic generation ways
+26. Traffic generation case study
+27. Why Gemini is much better?
+28. Realistic benchmark of models
+29. Traffic generation ways
 
