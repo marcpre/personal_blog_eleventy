@@ -45,5 +45,6 @@ Include images:
 30. Best traffic leaks
 31. Internet Marketing tricks
 32. Why title matters on reddit posts
-33. Ways to drive traffic from reddit 
+33. Ways to drive traffic from reddit
+34. The journey of traffic - is it one BIG win or slow growth?
 
