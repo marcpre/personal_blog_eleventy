@@ -47,4 +47,6 @@ Include images:
 32. Why title matters on reddit posts
 33. Ways to drive traffic from reddit
 34. The journey of traffic - is it one BIG win or slow growth?
+35. Input the top posts into chatgpt and generate a viral post
+
 
