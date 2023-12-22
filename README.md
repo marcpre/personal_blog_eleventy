@@ -48,5 +48,6 @@ Include images:
 33. Ways to drive traffic from reddit
 34. The journey of traffic - is it one BIG win or slow growth?
 35. Input the top posts into chatgpt and generate a viral post
+36. Comment the post of openai that data is the moat
 
 
