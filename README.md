@@ -4,7 +4,6 @@
 
 Include images:
 
-
 "{% image "images/example-image.jpg", "An example image", "100vw" %}"
 
 # Todo's
@@ -50,5 +49,6 @@ Include images:
 35. Input the top posts into chatgpt and generate a viral post
 36. Comment the post of openai that data is the moat
 37. Is AI as powerful as everybody thinks?
+38. At which stage are we in the AI development?
 
 
