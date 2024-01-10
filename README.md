@@ -52,3 +52,4 @@ Include images:
 38. At which stage are we in the AI development?
 39. Ways to make sdxl images better
 40. Add your personal face to every image - tutorial 
+41. Install LLama 2.cpp and create articles for SEO
