@@ -54,3 +54,4 @@ Include images:
 40. Add your personal face to every image - tutorial 
 41. Install LLama 2.cpp and create articles for SEO
 42. Run llama.cpp on virtualbox
+43. Wifi Hacking - https://www.youtube.com/watch?v=dZwbb42pdtg
