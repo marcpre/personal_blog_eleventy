@@ -56,3 +56,4 @@ Include images:
 42. Run llama.cpp on virtualbox
 43. Wifi Hacking - https://www.youtube.com/watch?v=dZwbb42pdtg
 44. Tired and working as a founder
+45. Big company vs. small nice company
