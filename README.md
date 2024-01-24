@@ -58,3 +58,4 @@ Include images:
 44. Tired and working as a founder
 45. Big company vs. small nice company
 46. Fully automated newsletter - An Anatomy
+47. Every prompt is a creative image to generate for content producers
