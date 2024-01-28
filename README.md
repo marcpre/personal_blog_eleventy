@@ -62,3 +62,4 @@ Include images:
 48. How to measure creativity of prompts
 49. people should have the option to opt out of regulation
 50. The core of AI is the conversational interface
+51. AI case: Conversational interface for website
