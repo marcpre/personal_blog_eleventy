@@ -60,7 +60,8 @@ Include images:
 46. Fully automated newsletter - An Anatomy
 47. Every prompt is a creative image to generate for content producers
 48. How to measure creativity of prompts
-49. people should have the option to opt out of regulation
-50. The core of AI is the conversational interface
-51. AI case: Conversational interface for website
-52. weird ai products for skiing
+49. Reactions agains choleric chefs
+50. people should have the option to opt out of regulation
+51. The core of AI is the conversational interface
+52. AI case: Conversational interface for website
+53. weird ai products for skiing
