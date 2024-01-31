@@ -65,3 +65,4 @@ Include images:
 51. The core of AI is the conversational interface
 52. AI case: Conversational interface for website
 53. weird ai products for skiing
+54. create your own journalist db, scrappe google alert article authors
