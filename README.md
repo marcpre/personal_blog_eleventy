@@ -66,3 +66,4 @@ Include images:
 52. AI case: Conversational interface for website
 53. weird ai products for skiing
 54. create your own journalist db, scrappe google alert article authors
+55. Ways to buy a personal domain and also what should I write about on my personal blog
