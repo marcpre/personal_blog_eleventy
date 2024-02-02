@@ -64,7 +64,8 @@ Include images:
 50. people should have the option to opt out of regulation
 51. The core of AI is the conversational interface
 52. AI case: Conversational interface for website
-53. weird ai products for skiing
-54. create your own journalist db, scrappe google alert article authors
-55. Ways to buy a personal domain and also what should I write about on my personal blog
-56. High Opportunity plays (Domains, stocks, traffic on website etc.)
+53. Create own crypto screener and wait for swings
+54. weird ai products for skiing
+55. create your own journalist db, scrappe google alert article authors
+56. Ways to buy a personal domain and also what should I write about on my personal blog
+57. High Opportunity plays (Domains, stocks, traffic on website etc.)
