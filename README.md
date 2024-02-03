@@ -69,3 +69,4 @@ Include images:
 55. create your own journalist db, scrappe google alert article authors
 56. Ways to buy a personal domain and also what should I write about on my personal blog
 57. High Opportunity plays (Domains, stocks, traffic on website etc.)
+58. Aspects of buying an online business
