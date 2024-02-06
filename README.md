@@ -71,3 +71,4 @@ Include images:
 57. High Opportunity plays (Domains, stocks, traffic on website etc.)
 58. Aspects of buying an online business
 59. Challenges that ai can solve, which are there and who has them
+60. Idee: DQI Tool für SaaS/Banken etc.
