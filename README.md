@@ -72,3 +72,4 @@ Include images:
 58. Aspects of buying an online business
 59. Challenges that ai can solve, which are there and who has them
 60. Idee: DQI Tool für SaaS/Banken etc.
+61. Business model of primaprompt  is traffic aggregation, buy traffic cheaper and sell it more expensive 
