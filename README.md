@@ -71,7 +71,8 @@ Include images:
 57. High Opportunity plays (Domains, stocks, traffic on website etc.)
 58. Aspects of buying an online business
 59. Challenges that ai can solve, which are there and who has them
-60. Idee: DQI Tool für SaaS/Banken etc.
-61. Business model of primaprompt  is traffic aggregation, buy traffic cheaper and sell it more expensive
-62. Options if you are stuck ar your job and also mindset
-63. Physio AI bot, that gives you quick exercises whenever you need one
+60. Develop IT architecture for products lik MVPs
+61. Idee: DQI Tool für SaaS/Banken etc.
+62. Business model of primaprompt  is traffic aggregation, buy traffic cheaper and sell it more expensive
+63. Options if you are stuck ar your job and also mindset
+64. Physio AI bot, that gives you quick exercises whenever you need one
