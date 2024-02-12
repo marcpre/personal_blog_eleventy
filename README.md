@@ -76,3 +76,4 @@ Include images:
 62. Business model of primaprompt  is traffic aggregation, buy traffic cheaper and sell it more expensive
 63. Options if you are stuck ar your job and also mindset
 64. Physio AI bot, that gives you quick exercises whenever you need one
+65. Evaluation of llms
