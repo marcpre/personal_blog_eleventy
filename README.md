@@ -79,3 +79,4 @@ Include images:
 65. Evaluation of llms
 66. Market Demand Experiment machen - Case Study für market demand
 67. Where can AI make the greatest impact?
+68. Kill Prompt Injection --> Startup Idea
