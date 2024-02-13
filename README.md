@@ -78,4 +78,4 @@ Include images:
 64. Physio AI bot, that gives you quick exercises whenever you need one
 65. Evaluation of llms
 66. Market Demand Experiment machen - Case Study für market demand
-67. d
+67. Where can AI make the greatest impact?
