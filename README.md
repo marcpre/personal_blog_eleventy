@@ -80,3 +80,4 @@ Include images:
 66. Market Demand Experiment machen - Case Study für market demand
 67. Where can AI make the greatest impact?
 68. Kill Prompt Injection, Content Filter Startup --> Startup Idea
+69. Perfect bootstrapped business models in terms of EBITA marge
