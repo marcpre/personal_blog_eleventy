@@ -77,7 +77,8 @@ Include images:
 63. Options if you are stuck ar your job and also mindset
 64. Physio AI bot, that gives you quick exercises whenever you need one
 65. Evaluation of llms
-66. Market Demand Experiment machen - Case Study für market demand
-67. Where can AI make the greatest impact?
-68. Kill Prompt Injection, Content Filter Startup --> Startup Idea
-69. Perfect bootstrapped business models in terms of EBITA marge
+66. AI Use Case Sammlung für Businesses
+67. Market Demand Experiment machen - Case Study für market demand
+68. Where can AI make the greatest impact?
+69. Kill Prompt Injection, Content Filter Startup --> Startup Idea
+70. Perfect bootstrapped business models in terms of EBITA marge
