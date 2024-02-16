@@ -82,3 +82,4 @@ Include images:
 68. Where can AI make the greatest impact?
 69. Kill Prompt Injection, Content Filter Startup --> Startup Idea
 70. Perfect bootstrapped business models in terms of EBITA marge
+71. what needes to can an ai in 2100?
