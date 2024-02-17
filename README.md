@@ -83,3 +83,5 @@ Include images:
 69. Kill Prompt Injection, Content Filter Startup --> Startup Idea
 70. Perfect bootstrapped business models in terms of EBITA marge
 71. what needes to can an ai in 2100?
+72. bring people to live usung an ai
+73. 
