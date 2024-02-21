@@ -84,4 +84,4 @@ Include images:
 70. Perfect bootstrapped business models in terms of EBITA marge
 71. what needes to can an ai in 2100?
 72. bring people to live usung an ai
-73. 
+73. Leadership and AI support
