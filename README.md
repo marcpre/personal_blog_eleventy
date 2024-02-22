@@ -85,3 +85,4 @@ Include images:
 71. what needes to can an ai in 2100?
 72. bring people to live usung an ai
 73. Leadership and AI support
+74. How to get rich? return driven approach
