@@ -86,3 +86,4 @@ Include images:
 72. bring people to live usung an ai
 73. Leadership and AI support
 74. How to get rich? return driven approach
+75. can ai hunt? --> create game
