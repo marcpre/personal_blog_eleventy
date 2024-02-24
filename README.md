@@ -87,3 +87,4 @@ Include images:
 73. Leadership and AI support
 74. How to get rich? return driven approach
 75. can ai hunt? --> create game
+76. List of hypergrowth ideas
