@@ -89,3 +89,4 @@ Include images:
 75. can ai hunt? --> create game
 76. List of hypergrowth ideas
 77. ai marketplace for open source models
+78. Content database is a viable way to check fakes and also regulate ai
