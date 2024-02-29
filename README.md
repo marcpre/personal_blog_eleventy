@@ -90,3 +90,4 @@ Include images:
 76. List of hypergrowth ideas
 77. ai marketplace for open source models
 78. Content database is a viable way to check fakes and also regulate ai
+79. Founding a new startup based on what gets seed funding or not, and then bootstrapping it in another market
