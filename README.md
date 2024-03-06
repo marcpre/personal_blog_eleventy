@@ -94,3 +94,4 @@ Include images:
 80. Real applications that need ai or no ai
 81. AI onlyfans
 82. AI personality engine
+83. Can AI give you feedback and rules on your behaviour?
