@@ -95,3 +95,5 @@ Include images:
 81. AI onlyfans
 82. AI personality engine
 83. Can AI give you feedback and rules on your behaviour?
+84. Business Model for bootstrappers that are viable
+85. 
