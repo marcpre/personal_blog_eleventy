@@ -97,3 +97,5 @@ Include images:
 83. Can AI give you feedback and rules on your behaviour?
 84. Business Model for bootstrappers that are viable
 85. Best quant backtesting engine
+86. Things that an irresistible offer needs
+87. 
