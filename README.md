@@ -98,4 +98,4 @@ Include images:
 84. Business Model for bootstrappers that are viable
 85. Best quant backtesting engine
 86. Things that an irresistible offer needs
-87. 
+87. Ways to scrape a website
