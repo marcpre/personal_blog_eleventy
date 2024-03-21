@@ -99,3 +99,4 @@ Include images:
 85. Best quant backtesting engine
 86. Things that an irresistible offer needs
 87. Ways to scrape a website
+88. campfire landing page from 37 signals the founder letter
