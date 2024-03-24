@@ -100,4 +100,5 @@ Include images:
 86. Things that an irresistible offer needs
 87. Ways to scrape a website
 88. campfire landing page from 37 signals the founder letter
-89. Where will the AI Market be in 6 Month. Large companies with top models and 6 month behind open source models. 
+89. Where will the AI Market be in 6 Month. Large companies with top models and 6 month behind open source models. #
+90. Copy wallstreetplayboys.com threads as the website is completely down
