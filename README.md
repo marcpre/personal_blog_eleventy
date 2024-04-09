@@ -103,4 +103,4 @@ Include images:
 89. Where will the AI Market be in 6 Month. Large companies with top models and 6 month behind open source models. #
 90. Copy wallstreetplayboys.com threads as the website is completely down
 91. make yourself as an AI
-92. 
+92. idea analysis - what is the potential and ehen are the pitfalls 
