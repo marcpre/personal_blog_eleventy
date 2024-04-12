@@ -106,3 +106,4 @@ Include images:
 92. make yourself as an AI
 93. idea analysis - what is the potential and ehen are the pitfalls
 94. how would AI in education look like and which impact could it generate as a knowledge base for kids
+95. High volatility stock predictions 
