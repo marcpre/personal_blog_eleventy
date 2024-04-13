@@ -103,7 +103,8 @@ Include images:
 89. Data is king with AI - Spend your data for an ai model
 90. Where will the AI Market be in 6 Month. Large companies with top models and 6 month behind open source models. #
 91. Copy wallstreetplayboys.com threads as the website is completely down
-92. make yourself as an AI
-93. idea analysis - what is the potential and ehen are the pitfalls
-94. how would AI in education look like and which impact could it generate as a knowledge base for kids
-95. High volatility stock predictions 
+92. What is real in the age of ai? Can it replace love?
+93. make yourself as an AI
+94. idea analysis - what is the potential and ehen are the pitfalls
+95. how would AI in education look like and which impact could it generate as a knowledge base for kids
+96. High volatility stock predictions 
