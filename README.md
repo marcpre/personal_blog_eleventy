@@ -105,6 +105,7 @@ Include images:
 91. Copy wallstreetplayboys.com threads as the website is completely down
 92. What is real in the age of ai? Can it replace love?
 93. make yourself as an AI
-94. idea analysis - what is the potential and ehen are the pitfalls
+94. idea analysis - what is the potential and where are the pitfalls
 95. how would AI in education look like and which impact could it generate as a knowledge base for kids
-96. High volatility stock predictions 
+96. High volatility stock predictions
+97. How to make time for your business?
