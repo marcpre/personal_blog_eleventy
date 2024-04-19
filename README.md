@@ -112,3 +112,4 @@ Include images:
 98. Where is the demand for AI?
 99. A plugin system for chatgpt
 100. 0 day exploit llms
+101. let chathpt read anything from your Smartphone 
