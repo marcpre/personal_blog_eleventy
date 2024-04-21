@@ -114,3 +114,4 @@ Include images:
 100. 0 day exploit llms
 101. let chathpt read anything from your Smartphone
 102. regulatory startup opportunities
+103. Make time if you do not have time
