@@ -115,3 +115,4 @@ Include images:
 101. let chathpt read anything from your Smartphone
 102. regulatory startup opportunities
 103. Make time if you do not have time
+104. Live speech translation with ai and answering
