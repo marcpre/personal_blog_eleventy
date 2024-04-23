@@ -116,3 +116,4 @@ Include images:
 102. regulatory startup opportunities
 103. Make time if you do not have time
 104. Live speech translation with ai and answering
+105. chatgpt in language learning so to eliminate Russian language in Estonia 
