@@ -118,4 +118,4 @@ Include images:
 104. Live speech translation with ai and answering
 105. chatgpt in language learning so to eliminate Russian language in Estonia
 106. chatgpt can complete exams like the medical or lawyer, but are these the problem spaces it uas to solve to get smarter
-107. 
+107. Automated Sales Channels
