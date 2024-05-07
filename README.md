@@ -121,3 +121,5 @@ Include images:
 107. Automated Sales Channels
 108. language learning with llm
 109. AI and safety, the importance!
+110. Kurzfristig überschätzen wir Technologie und langfristig unterschätzen wir Technologie
+
