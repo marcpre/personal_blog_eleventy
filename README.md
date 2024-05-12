@@ -124,6 +124,6 @@ Include images:
 110. Kurzfristig überschätzen wir Technologie und langfristig unterschätzen wir Technologie
 111. Train your own smallish llm to make better decisions, and NOT use RAGs --> describe scenarios
 112. Identify the greatest returning assets
-113. robits will defragment every market
+113. robots will defragment every market, as they can share data and identify efficient opportunities for supply and demand f.ex construction 
 114. 
 
