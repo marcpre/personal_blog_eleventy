@@ -128,4 +128,8 @@ Include images:
 114. Large fragemented markets are really good for startup investments
 115. Console selling is not so good as you do not need a console regularly, you need regularly a game
 116. Use fetch to get data and describe process
+117. Tool to identify double data in dwh's
+
+
+
 
