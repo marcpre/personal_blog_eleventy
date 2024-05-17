@@ -127,4 +127,5 @@ Include images:
 113. Robots will defragment every market, as they can share data and identify efficient opportunities for supply and demand f.ex construction 
 114. Large fragemented markets are really good for startup investments
 115. Console selling is not so good as you do not need a console regularly, you need regularly a game
+116. Use fetch to get data and describe process
 
