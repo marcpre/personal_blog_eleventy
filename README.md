@@ -129,6 +129,7 @@ Include images:
 115. Console selling is not so good as you do not need a console regularly, you need regularly a game
 116. Use fetch to get data and describe process
 117. Tool to identify double data in dwh's
+118. what are the valuable segments in the AI market
 
 
 
