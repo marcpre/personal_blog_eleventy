@@ -130,6 +130,7 @@ Include images:
 116. Use fetch to get data and describe process
 117. Tool to identify double data in dwh's
 118. what are the valuable segments in the AI market
+119. What is luck in life? Which role do believes play in this?
 
 
 
