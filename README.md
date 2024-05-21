@@ -132,6 +132,7 @@ Include images:
 118. what are the valuable segments in the AI market
 119. What is luck in life? Which role do believes play in this?
 120. What are the megatrends until 2030?
+121. Getting into the "position of fuck you"
 
 
 
