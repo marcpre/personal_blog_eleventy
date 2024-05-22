@@ -115,24 +115,25 @@ Include images:
 101. let chathpt read anything from your Smartphone
 102. regulatory startup opportunities
 103. Make time if you do not have time
-104. Live speech translation with ai and answering
-105. chatgpt in language learning so to eliminate Russian language in Estonia
+104. Live speech translation with AI and answering
+105. chatgpt in language learning so as to eliminate the Russian language in Estonia
 106. chatgpt can complete exams like the medical or lawyer, but are these the problem spaces it uas to solve to get smarter
 107. Automated Sales Channels
 108. language learning with llm
-109. AI and safety, the importance!
+109. AI and safety, the important!
 110. Kurzfristig überschätzen wir Technologie und langfristig unterschätzen wir Technologie
 111. Train your own smallish llm to make better decisions, and NOT use RAGs --> describe scenarios
 112. Identify the greatest returning assets
-113. Robots will defragment every market, as they can share data and identify efficient opportunities for supply and demand f.ex construction 
-114. Large fragemented markets are really good for startup investments
-115. Console selling is not so good as you do not need a console regularly, you need regularly a game
-116. Use fetch to get data and describe process
+113. Robots will defragment every market, as they can share data and identify efficient opportunities for supply and demand e.g., construction 
+114. Large fragmented markets are really good for startup investments
+115. Console selling is not so good as you do not need a console regularly, you need a game
+116. Use fetch to get data and describe the process
 117. Tool to identify double data in dwh's
 118. what are the valuable segments in the AI market
 119. What is luck in life? Which role do believes play in this?
 120. What are the megatrends until 2030?
 121. Getting into the "position of fuck you"
+122. Criticise your Bauplan for your house
 
 
 
