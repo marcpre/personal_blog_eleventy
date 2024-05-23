@@ -134,6 +134,7 @@ Include images:
 120. What are the megatrends until 2030?
 121. Getting into the "position of fuck you"
 122. Criticise your Bauplan for your house
+123. AI to check what is not ok for flat after the renter leaves
 
 
 
