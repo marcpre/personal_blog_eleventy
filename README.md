@@ -135,6 +135,7 @@ Include images:
 121. Getting into the "position of fuck you"
 122. Criticise your Bauplan for your house
 123. AI to check what is not ok for flat after the renter leaves
+124. Klassentreffen der AI avatare
 
 
 
