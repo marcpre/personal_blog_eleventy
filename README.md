@@ -136,6 +136,7 @@ Include images:
 122. Criticise your Bauplan for your house
 123. AI to check what is not ok for flat after the renter leaves
 124. Klassentreffen der AI avatare
+125. UI in der KI Welt - eine Case Studie
 
 
 
