@@ -140,6 +140,7 @@ Include images:
 126. Steam für (cracked) Retro-Games
 127. Way to do customer interviews
 128. bot that helps with discussions
+129. SEO page that focuses on a bunch of keywords
 
 
 
