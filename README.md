@@ -138,6 +138,7 @@ Include images:
 124. Klassentreffen der AI avatare
 125. UI in der KI Welt - eine Case Studie
 126. Steam für (cracked) Retro-Games
+127. Way to do customer interviews
 
 
 
