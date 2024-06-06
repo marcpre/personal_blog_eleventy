@@ -141,6 +141,7 @@ Include images:
 127. Way to do customer interviews
 128. bot that helps with discussions
 129. SEO page that focuses on a bunch of keywords
+130. Power Point creation AI or helper tool
 
 
 
