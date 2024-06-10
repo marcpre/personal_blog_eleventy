@@ -143,6 +143,7 @@ Include images:
 129. SEO page that focuses on a bunch of keywords
 130. Power Point creation AI or helper tool
 131. AI is in its core, automation of workprocesses, if the workprocess cannot get automated then AI is an all-round helper
+132. What is a good TAM size for a startup?
 
 
 
