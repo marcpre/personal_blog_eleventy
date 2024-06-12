@@ -144,6 +144,7 @@ Include images:
 130. Power Point creation AI or helper tool
 131. AI is in its core, automation of workprocesses, if the workprocess cannot get automated then AI is an all-round helper
 132. What is a good TAM size for a startup?
+133. How to research a market, like AI compagnionship
 
 
 
