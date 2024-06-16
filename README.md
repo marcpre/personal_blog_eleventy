@@ -147,6 +147,7 @@ Include images:
 133. How to research a market, like AI compagnionship
 134. Building a career from your current position
 135. Cluster AI compagnions applications
+136. Investment class by warren buffet
 
 
 
