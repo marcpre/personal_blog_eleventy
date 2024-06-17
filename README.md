@@ -149,6 +149,7 @@ Include images:
 135. Cluster AI compagnions applications
 136. Investment class by warren buffet
 137. AI helper für Schwangere to calm them down
+138. AI Assistent for Motivation for Sport
 
 
 
