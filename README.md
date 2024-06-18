@@ -148,6 +148,7 @@ Include images:
 134. Building a career from your current position
 135. Cluster AI compagnions applications
 136. Investment class by warren buffet
+137. AI helper für Schwangere to calm them down
 
 
 
