@@ -156,8 +156,3 @@ Include images:
 142. Detect internal code online --> eigenes Tool bauen für Firmen
 
 
-
-
-
-
-
