@@ -153,6 +153,7 @@ Include images:
 139. What makes someone grow font of an ai compagnion
 140. Where are the 50% crypto opportunities
 141. Research methodology for finding high traffic websites
+142. Detect internal code online --> eigenes Tool bauen für Firmen
 
 
 
