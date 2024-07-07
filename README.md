@@ -154,5 +154,6 @@ Include images:
 140. Where are the 50% crypto opportunities
 141. Research methodology for finding high traffic websites
 142. Detect internal code online --> eigenes Tool bauen für Firmen
+143. Guided Tour with ChatGPT like Pilgerfahrt
 
 
