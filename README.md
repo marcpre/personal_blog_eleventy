@@ -155,5 +155,6 @@ Include images:
 141. Research methodology for finding high traffic websites
 142. Detect internal code online --> eigenes Tool bauen für Firmen
 143. Guided Tour with ChatGPT like Pilgerfahrt
+144. AI assistent to support daily work
 
 
