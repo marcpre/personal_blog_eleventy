@@ -156,5 +156,6 @@ Include images:
 142. Detect internal code online --> eigenes Tool bauen für Firmen
 143. Guided Tour with ChatGPT like Pilgerfahrt
 144. AI assistent to support daily work
+145. crm that only goes via voice, like calling and taking notes
 
 
