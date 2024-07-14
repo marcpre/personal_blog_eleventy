@@ -158,5 +158,6 @@ Include images:
 144. AI assistent to support daily work
 145. crm that only goes via voice, like calling and taking notes
 146. TavernAI character builder
+147. experiment: subscribe to every free plan that you find to get the value
 
 
