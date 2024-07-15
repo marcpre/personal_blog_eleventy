@@ -160,5 +160,6 @@ Include images:
 146. TavernAI character builder
 147. experiment: subscribe to every free plan that you find to get the value
 148. TalkingImage AI --> Wie bauen
+149. Conversational Interface to talk to your phone and make thinks like --> CRM
 
 
