@@ -161,5 +161,6 @@ Include images:
 147. experiment: subscribe to every free plan that you find to get the value
 148. TalkingImage AI --> Wie bauen
 149. Conversational Interface to talk to your phone and make thinks like --> CRM
+150. translation app that works without internet using whisper an a local large language model
 
 
