@@ -162,5 +162,6 @@ Include images:
 148. TalkingImage AI --> Wie bauen
 149. Conversational Interface to talk to your phone and make thinks like --> CRM
 150. translation app that works without internet using whisper an a local large language model
+151. Give your AI a task when you sleep
 
 
