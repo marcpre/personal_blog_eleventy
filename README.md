@@ -164,5 +164,6 @@ Include images:
 150. translation app that works without internet using whisper an a local large language model
 151. Give your AI a task when you sleep
 152. an ai health coach that extends your life and give you regular Tipps on your lifestyle
+153. jetzt tail Wind in growing Website in a certain niche, factors to look out
 
 
