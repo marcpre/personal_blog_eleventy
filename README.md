@@ -168,5 +168,6 @@ Include images:
 154. Growing website --> best was to grow it
 155. Viral hooks
 156. Create quick slide deck via ai generator
+157. AI to help you focus on your goals and makes you free time or build up a habit to reach this goal
 
 
