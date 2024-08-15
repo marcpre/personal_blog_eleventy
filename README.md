@@ -172,7 +172,8 @@ Include images:
 158. Realistic ways to make money on the internet in a short amount of time
 159. Is website traffic the ideal startup?
 160. How to measure demand? (using reddit, online communities)
-161. Next step in ai (after llms)
-162. AI für Gutenachtgeschichten in der früh, dann kann das Kind direkt mit ChatGPT sprechen und die Eltern schalfen dann noch
+161. Medical advice from GPT is similar to asking a database of health data
+162. Next step in ai (after llms)
+163. AI für Gutenachtgeschichten in der früh, dann kann das Kind direkt mit ChatGPT sprechen und die Eltern schalfen dann noch
 
 
