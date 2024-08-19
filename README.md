@@ -177,5 +177,6 @@ Include images:
 163. AI für Gutenachtgeschichten in der früh, dann kann das Kind direkt mit ChatGPT sprechen und die Eltern schalfen dann noch
 164. Factors for an automated high traffic website with potential
 165. AI Learning and story telling device for children
+166. Personalized CRM to meet new people
 
 
