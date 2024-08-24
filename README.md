@@ -182,4 +182,5 @@ Include images:
 168. Market Tracker bauen für Immo-Markt in Österreich
 169. AI for Mietrechtsgesetz bauen
 170. Factors for high-traffic website
+171. Get product ideas - Use this template: https://www.reddit.com/r/gamedev/comments/1f0ezlk/comment/ljreesy/?context=3
 
