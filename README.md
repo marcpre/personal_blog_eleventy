@@ -183,5 +183,6 @@ Include images:
 169. AI for Mietrechtsgesetz bauen
 170. Factors for high-traffic website
 171. Get product ideas - Use this template: https://www.reddit.com/r/gamedev/comments/1f0ezlk/comment/ljreesy/?context=3
-172. Systematize the 10 startups challenge
+172. Systematize the 10 Startups challenge
+173. Research book for game market
 
