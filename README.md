@@ -189,6 +189,7 @@ Include images:
 175. Software zum managen einer Wohnung für Immobilienmarkler
 176. Lead Generation for Immobilien Markler
 177. AI to give guidance on presentation
+178. AI to do things in the car completely by voice
 
 
 
