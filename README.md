@@ -190,6 +190,7 @@ Include images:
 176. Lead Generation for Immobilien Markler
 177. AI to give guidance on presentation
 178. AI to do things in the car completely by voice
+179. Rechts AI für Immobilienverträge
 
 
 
