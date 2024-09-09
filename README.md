@@ -191,6 +191,7 @@ Include images:
 177. AI to give guidance on presentation
 178. AI to do things in the car completely by voice
 179. Rechts AI für Immobilienverträge
+180. Reflektiere: Wie viel Input investierst du hinein und wie viel Output bekommst du eigentlich?
 
 
 
