@@ -194,6 +194,7 @@ Include images:
 180. Reflektiere: Wie viel Input investierst du hinein und wie viel Output bekommst du eigentlich?
 181. GmbH Gründung für Immobilienprojekte machen
 182. AI for funny conversations
+183. Immobilienkennzahlen fürs Portfolio
 
 
 
