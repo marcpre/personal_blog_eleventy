@@ -195,6 +195,7 @@ Include images:
 181. GmbH Gründung für Immobilienprojekte machen
 182. AI for funny conversations
 183. Immobilienkennzahlen fürs Portfolio
+184. When creating a story focus on the deep emotional aspect and this should be explainable to others
 
 
 
