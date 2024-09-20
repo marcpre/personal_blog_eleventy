@@ -197,7 +197,7 @@ Include images:
 183. Immobilienkennzahlen fürs Portfolio
 184. When creating a story focus on the deep emotional aspect and this should be explainable to others
 185. Research real estate investors and what really made them rich
-186. 
+186. Use AI to give it tasks to do
 
 
 
