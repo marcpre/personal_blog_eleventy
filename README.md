@@ -202,6 +202,7 @@ Include images:
 188. Life is a decision about time, you cannot control time, so you need to decide whom you give your energy and whom not
 189. What is a healthy immobilien portfolio?
 190. Identify real investors
+191. 
 
 
 
