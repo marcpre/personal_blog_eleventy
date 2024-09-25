@@ -200,6 +200,8 @@ Include images:
 186. Use AI to give it tasks to do
 187. How to save personal energy?
 188. Life is a decision about time, you cannot control time, so you need to decide whom you give your energy and whom not
+189. What is a healthy immobilien portfolio?
+190. 
 
 
 
