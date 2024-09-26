@@ -203,6 +203,7 @@ Include images:
 189. What is a healthy immobilien portfolio?
 190. Identify real investors
 191. AI to express yourself if you cannot (like if you are "stumm")
+192. 
 
 
 
