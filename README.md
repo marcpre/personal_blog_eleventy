@@ -203,7 +203,8 @@ Include images:
 189. What is a healthy immobilien portfolio?
 190. Identify real investors
 191. AI to express yourself if you cannot (like if you are "stumm")
-192. Use Javascript and publish game directly on the internet
+192. Use Javascript and publish the game directly on the internet
+193. Run AI as research assistant in the back or during the day
 
 
 
