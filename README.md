@@ -205,6 +205,7 @@ Include images:
 191. AI to express yourself if you cannot (like if you are "stumm")
 192. Use Javascript and publish the game directly on the internet
 193. Run AI as research assistant in the back or during the day
+194. The user interface to access LLMs is key in AI adoption
 
 
 
