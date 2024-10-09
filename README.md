@@ -210,10 +210,5 @@ Include images:
 196. Create app so that you can take notes in the car
 197. Elad Gill - How he analyzes markets?
 198. The conversational crm --> take notes that can be shared and put to a customer/firm name for example. 
-199. 
-
-
-
-
 
 
