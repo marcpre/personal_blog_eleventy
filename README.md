@@ -208,7 +208,8 @@ Include images:
 194. The user interface to access LLMs is key in AI adoption
 195. AI that learns with you in the car or on the go and speaks with you!
 196. Create app so that you can take notes in the car
-197. Elad Gill - How he analyzes markets? 
+197. Elad Gill - How he analyzes markets?
+198. The conversational crm
 
 
 
