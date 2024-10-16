@@ -211,5 +211,6 @@ Include images:
 197. Elad Gill - How he analyzes markets?
 198. The conversational crm --> take notes that can be shared and put to a customer/firm name for example.
 199. Sources like aquired.com for business ideas!
-200. AI writting apps have huge demand!!!
+200. AI writing apps have huge demand!!!
+201. What are the largest problems in crypto?
 
