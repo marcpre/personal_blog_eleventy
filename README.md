@@ -217,4 +217,5 @@ Include images:
 203. Conversational API and then execute commands
 204. Where do affiliates get their offers
 205. Founder of pump.fun contacted 3000 people to reach product/market fit
+206. Ask people before you launch about your idea!!!
 
