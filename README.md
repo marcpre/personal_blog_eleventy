@@ -225,3 +225,4 @@ Include images:
 211. aiden coding agent is holy
 212. habits are the cornerstone for productivity
 213. Sell your AI voice using NFTs on solana
+214. learn price action to read the chart
