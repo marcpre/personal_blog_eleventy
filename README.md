@@ -226,3 +226,4 @@ Include images:
 212. habits are the cornerstone for productivity
 213. Sell your AI voice using NFTs on solana
 214. learn price action to read the chart
+215. What's the ICT method in trading? (Trader Mayne)
