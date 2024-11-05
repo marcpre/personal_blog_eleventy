@@ -227,3 +227,4 @@ Include images:
 213. Sell your AI voice using NFTs on solana
 214. learn price action to read the chart
 215. What's the ICT method in trading? (Trader Mayne)
+216. The Power of Shut up and Listen
