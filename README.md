@@ -228,3 +228,5 @@ Include images:
 214. learn price action to read the chart
 215. What's the ICT method in trading? (Trader Mayne)
 216. The Power of Shut up and Listen
+217. How to learn effectively in the car
+218. 
