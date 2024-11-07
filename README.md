@@ -229,4 +229,4 @@ Include images:
 215. What's the ICT method in trading? (Trader Mayne)
 216. The Power of Shut up and Listen
 217. How to learn effectively in the car
-218. 
+218. The only way to scale that people do the right thing is a personal AI
