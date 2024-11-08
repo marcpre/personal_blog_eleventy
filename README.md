@@ -230,3 +230,5 @@ Include images:
 216. The Power of Shut up and Listen
 217. How to learn effectively in the car
 218. The only way to scale that people do the right thing is a personal AI
+219. AI that controlls a GmbH Geschäftsführer
+220. 
