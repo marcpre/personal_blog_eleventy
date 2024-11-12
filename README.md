@@ -233,3 +233,4 @@ Include images:
 219. AI that controlls a GmbH Geschäftsführer
 220. Learn ICT concepts and trade against these traders
 221. Immobilien-Angebote is a numbers game! --> 10 Angebote im Monat --> 120 Angebote im Jahr
+222. Boring business is the best business, like tennisoutlet
