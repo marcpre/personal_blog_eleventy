@@ -234,3 +234,4 @@ Include images:
 220. Learn ICT concepts and trade against these traders
 221. Immobilien-Angebote is a numbers game! --> 10 Angebote im Monat --> 120 Angebote im Jahr
 222. Boring business is the best business, like tennisoutlet
+223. Buy 20 memcoins from 50 pump.fun tokens. There should be 1 win among it
