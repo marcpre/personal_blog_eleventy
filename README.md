@@ -237,4 +237,6 @@ Include images:
 223. Buy 20 memcoins from 50 pump.fun tokens. There should be 1 win among it
 224. An education AI should do personalized lectures with the student
 225. Coding is the ultimate way to get a return
-226. for an MVP use as much available help as possible to make a fast market entry and start testing 
+226. for an MVP use as much available help as possible to make a fast market entry and start testing
+227. CRM that can only be controlled by voice
+228. 
