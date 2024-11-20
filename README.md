@@ -239,4 +239,4 @@ Include images:
 225. Coding is the ultimate way to get a return
 226. for an MVP use as much available help as possible to make a fast market entry and start testing
 227. CRM that can only be controlled by voice
-228. 
+228. Il Principe from Machiavelli is taught on ÖVP academy
