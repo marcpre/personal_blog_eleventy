@@ -240,3 +240,4 @@ Include images:
 226. for an MVP use as much available help as possible to make a fast market entry and start testing
 227. CRM that can only be controlled by voice
 228. Il Principe from Machiavelli is taught on ÖVP academy
+229. Practice Ruhe in your work environment
