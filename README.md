@@ -243,3 +243,4 @@ Include images:
 229. Practice Ruhe in your work environment
 230. Hard work and who you know is the pillar of your sucess
 231. Give the other person more value when you network
+232. Orderblock trading used in memecoins
