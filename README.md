@@ -241,3 +241,4 @@ Include images:
 227. CRM that can only be controlled by voice
 228. Il Principe from Machiavelli is taught on ÖVP academy
 229. Practice Ruhe in your work environment
+230. Hard work and who you know is the pillar of your sucess
