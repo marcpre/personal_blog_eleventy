@@ -244,3 +244,4 @@ Include images:
 230. Hard work and who you know is the pillar of your sucess
 231. Give the other person more value when you network
 232. Orderblock trading used in memecoins
+233. Early startup has to have: Team, TAM, Traction
