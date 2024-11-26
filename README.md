@@ -246,4 +246,5 @@ Include images:
 232. Orderblock trading used in memecoins
 233. Early startup has to have: Team, TAM, Traction
 234. Work on processes to scale your immobilien game
-235. 
+235. Scaling the business of immobilien is key --> look at ways how (like work with your markler or contact them directly)
+236. 
