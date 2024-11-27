@@ -245,3 +245,5 @@ Include images:
 231. Give the other person more value when you network
 232. Orderblock trading used in memecoins
 233. Early startup has to have: Team, TAM, Traction
+234. Work on processes to scale your immobilien game
+235. 
