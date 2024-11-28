@@ -249,5 +249,6 @@ Include images:
 235. Scaling the business of immobilien is key --> look at ways how (like work with your markler or contact them directly)
 236. Stay honest, be honest
 237. ChatGPT to help you in certain situations like dating, or be quickly creative
+238. Stay quiet and listen and give compliments
 
 
