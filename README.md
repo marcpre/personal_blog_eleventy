@@ -248,3 +248,5 @@ Include images:
 234. Work on processes to scale your immobilien game
 235. Scaling the business of immobilien is key --> look at ways how (like work with your markler or contact them directly)
 236. Stay honest, be honest
+
+
