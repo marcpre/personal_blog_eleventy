@@ -255,5 +255,6 @@ Include images:
 241. Be calm, let people come as a leader
 242. The dots connect looking backward --> Be bold and try something out, where you have faith in it
 243. Be brave and bold as founder
+244. 
 
 
