@@ -258,6 +258,7 @@ Include images:
 244. memecoin screening einstellungen finden
 245. MEV Bot
 246. Markler direkt kontaktieren bzgl Wohnungen und Beziehung aufbauen
-247. 
+247. Den stärksten Markler aus einem Bezirk befrienden
+
 
 
