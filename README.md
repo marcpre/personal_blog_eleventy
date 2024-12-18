@@ -260,6 +260,7 @@ Include images:
 246. Markler direkt kontaktieren bzgl Wohnungen und Beziehung aufbauen
 247. Den stärksten Markler aus einem Bezirk befrienden
 248. Focus everyday on the most important things in live!
-249. 
+249. Wer fragt der führt; Mach deine Idee zu jemand anderes Idee
+250. 
 
 
