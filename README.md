@@ -262,5 +262,6 @@ Include images:
 248. Focus everyday on the most important things in live!
 249. Wer fragt der führt; Mach deine Idee zu jemand anderes Idee
 250. Do an inception - setze deine Idee ins Hirn von jemand Anderem
+251. 
 
 
