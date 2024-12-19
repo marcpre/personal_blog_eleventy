@@ -261,6 +261,6 @@ Include images:
 247. Den stärksten Markler aus einem Bezirk befrienden
 248. Focus everyday on the most important things in live!
 249. Wer fragt der führt; Mach deine Idee zu jemand anderes Idee
-250. 
+250. Do an inception - setze deine Idee ins Hirn von jemand Anderem
 
 
