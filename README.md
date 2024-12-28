@@ -264,3 +264,5 @@ Include images:
 250. Do an inception - setze deine Idee ins Hirn von jemand Anderem
 251. Solana Mev is highly profitable
 252. 1 profitable trade per month, cme seems to work quite well even if the profits are so thin --> leverage trade?
+253. surround yourself with the people that have achieved what you want to achieve
+254. 
