@@ -267,4 +267,6 @@ Include images:
 253. surround yourself with the people that have achieved what you want to achieve
 254. First MEV Quant Fund
 255. MEV Arbitrage Bot vs. Sniper Bot --> Which is simpler to start?
+256. Unternehmer fokusieren sich darauf, welches Produkt morgen spannend ist, nicht heute
+257. 
 
