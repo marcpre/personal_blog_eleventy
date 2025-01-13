@@ -268,5 +268,5 @@ Include images:
 254. First MEV Quant Fund
 255. MEV Arbitrage Bot vs. Sniper Bot --> Which is simpler to start?
 256. Unternehmer fokusieren sich darauf, welches Produkt morgen spannend ist, nicht heute
-257. 
+257. Immobilien == numbers game!
 
