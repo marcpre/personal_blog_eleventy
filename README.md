@@ -269,5 +269,5 @@ Include images:
 255. MEV Arbitrage Bot vs. Sniper Bot --> Which is simpler to start?
 256. Unternehmer fokusieren sich darauf, welches Produkt morgen spannend ist, nicht heute
 257. Immobilien == numbers game!
-258. 
+258. Implement solana mev strategy
 
