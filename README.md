@@ -272,5 +272,6 @@ Include images:
 258. Implement solana mev strategy
 259. Sleep is the basis of good brain health
 260. Zeit für persönliche Projekte rausschneiden
-261. 
+261. What is a simple first trading bot in rust?
+262. 
 
