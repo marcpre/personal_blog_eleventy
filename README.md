@@ -273,5 +273,5 @@ Include images:
 259. Sleep is the basis of good brain health
 260. Zeit für persönliche Projekte rausschneiden
 261. What is a simple first trading bot in rust?
-262. 
+262. Everyday reserve time for your goal to create a business!
 
