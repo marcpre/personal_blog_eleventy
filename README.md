@@ -274,5 +274,6 @@ Include images:
 260. Zeit für persönliche Projekte rausschneiden
 261. What is a simple first trading bot in rust?
 262. Everyday reserve time for your goal to create a business!
-263. 
+263. Trading is wild west in crypto markets
+264. 
 
