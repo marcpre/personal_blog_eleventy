@@ -279,4 +279,3 @@ Include images:
 265. With quant pc's its about, what most you can do with least resources. Simply: Quant Computer can do more with even less resources.
 266. Work on your trading bot!
 267. 
-
