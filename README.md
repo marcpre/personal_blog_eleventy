@@ -280,4 +280,5 @@ Include images:
 266. Work on your trading bot!
 267. Even if you are not motivated work on your dreams, its your duty!
 268. Find hottest crypto opportunities --> how?
-269. 
+269. Sleep and Relaxe to get new energy
+270. 
