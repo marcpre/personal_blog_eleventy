@@ -283,5 +283,6 @@ Include images:
 269. Sleep and Relaxe to get new energy
 270. Antworte nicht, wenn dir Teresa auf die nerven geht --> das kostet irrsinnig viel Energie
 271. Streamline den Immobilien-Angebots Prozess
-272. 
+272. Using chatgpt every evening is like a learning new session
+273. 
 
