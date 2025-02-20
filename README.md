@@ -1,4 +1,4 @@
-# personal_blog_eleventy
+ii# personal_blog_eleventy
 
 ## Images
 
@@ -285,5 +285,6 @@ Include images:
 271. Streamline den Immobilien-Angebots Prozess
 272. Using chatgpt every evening is like a learning new session
 273. Uniswap arbitrage bot create it
-274. 
+274. di ot talk about your trading, keep it confidential
+275. 
 
