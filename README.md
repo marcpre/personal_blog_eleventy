@@ -289,4 +289,5 @@ Include images:
 275. Chatgpt task to create a website or app or analyze a lot of data
 276. what is a startup idea that sorks for you?
 277. Your MVP can be as simple as a video
-278. 
+278. Create a community of raving fans for an app
+279. 
