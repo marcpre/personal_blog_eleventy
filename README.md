@@ -292,9 +292,3 @@ Include images:
 278. Create a community of raving fans for an app
 279. Take a weekend project and implement it
 280. Always sit infront of the PC after putting kids to sleep
-
-
-
-
-
-
