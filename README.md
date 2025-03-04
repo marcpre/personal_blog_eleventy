@@ -294,4 +294,3 @@ Include images:
 280. Always sit infront of the PC after putting kids to sleep
 281. AI will be between the humans and the companies and make processes more efficient
 282. Immobilien Anzeige-Seite, nur gratis und einfacher zu finden
-
