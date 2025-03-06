@@ -10,7 +10,6 @@ Include images:
 - [ ] Add a post image to the post overview
 - [ ] Add the image to the post
 
-
 # Topics Ideas
 1. What is the fastest way to evaluate a product, faster than MVP
 2. Working on the side
