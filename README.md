@@ -1,4 +1,4 @@
-ii# personal_blog_eleventy
+# personal_blog_eleventy
 
 ## Images
 
@@ -294,5 +294,6 @@ Include images:
 281. AI will be between the humans and the companies and make processes more efficient
 282. Immobilien Anzeige-Seite, nur gratis und einfacher zu finden
 283. query every product handbook via ai
-284. 
+284. jailbroken ai models
+285. 
 
