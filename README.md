@@ -300,6 +300,3 @@ Include images:
 287. Your energy levels are the most important resource you have
 288. Leute die nicht arbeiten wollen oder tun wollen --> Reduce contact
 289. 
-
-
-
