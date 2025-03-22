@@ -298,7 +298,8 @@ Include images:
 285. What are the big ideas to build on the world?
 286. Du baust dir dein Leben wie es für dich passt, du bekommst die richtigen Freunde, welche du haben möchtest
 287. Your energy levels are the most important resource you have
-288. 
+288. Leute die nicht arbeiten wollen oder tun wollen --> Reduce contact
+289. 
 
 
 
