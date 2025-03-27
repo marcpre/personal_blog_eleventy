@@ -302,4 +302,4 @@ Include images:
 289. Crypto Markets goes sideways, as recession is coming to the economy
 290. Test your technical analysis skills
 291. Immo-Opportunities ranken immer
-292. 
+292. Do weekly crypto market report fcst.
