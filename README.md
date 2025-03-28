@@ -303,3 +303,5 @@ Include images:
 290. Test your technical analysis skills
 291. Immo-Opportunities ranken immer
 292. Do weekly crypto market report fcst.
+293. Create trading repo and work on alpha generation
+294. 
