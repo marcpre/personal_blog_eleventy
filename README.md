@@ -304,4 +304,4 @@ Include images:
 291. Immo-Opportunities ranken immer
 292. Do weekly crypto market report fcst.
 293. Create trading repo and work on alpha generation
-294. 
+294. Gedanken experiment: Ich brauche ca 19 Trades mit 20% return um eine Million zu ertraden. Wenn ich mir ein crypto asset such, welches im Monat 20% return erwirtschaftet - können auch 2 mal 10% return sein - und immer zu einem sehr niedrigen Preis einkaufe, dann brauche ich doch keinen stop loss und komme trotzdem auf die 1mio.
