@@ -306,4 +306,5 @@ Include images:
 293. Create trading repo and work on alpha generation
 294. Gedanken experiment: Ich brauche ca 19 Trades mit 20% return um eine Million zu ertraden. Wenn ich mir ein crypto asset such, welches im Monat 20% return erwirtschaftet - können auch 2 mal 10% return sein - und immer zu einem sehr niedrigen Preis einkaufe, dann brauche ich doch keinen stop loss und komme trotzdem auf die 1mio.
 295. EK Effizientes Portfolio an Immos
-296. 
+296. No good website to jump on the tariffs from trump
+297. 
