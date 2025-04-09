@@ -309,4 +309,5 @@ Include images:
 296. No good website to jump on the tariffs from trump
 297. Divide arguments to get what you want
 298. Never talk about your deals in front of other real estate investors, if there is nothing in it for you
-299. 
+299. Learn leverage to capture trump moves
+300. 
