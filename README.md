@@ -311,3 +311,5 @@ Include images:
 298. Never talk about your deals in front of other real estate investors, if there is nothing in it for you
 299. Learn leverage to capture trump moves
 300. What is your trading setup when to invest and when not
+301. Side business worth executions
+302. 
