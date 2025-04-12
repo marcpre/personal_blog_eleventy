@@ -312,4 +312,5 @@ Include images:
 299. Learn leverage to capture trump moves
 300. What is your trading setup when to invest and when not
 301. Side business worth executions
-302. 
+302. Trading is a game of chance/luck, business is a game of work
+303. 
