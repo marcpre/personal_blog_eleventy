@@ -313,4 +313,4 @@ Include images:
 300. What is your trading setup when to invest and when not
 301. Side business worth executions
 302. Trading is a game of chance/luck, business is a game of work
-303. 
+303. Make an Inception with someone else - it should be his/her idea
