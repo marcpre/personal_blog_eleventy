@@ -314,6 +314,5 @@ Include images:
 301. Side business worth executions
 302. Trading is a game of chance/luck, business is a game of work
 303. Make an Inception with someone else - it should be his/her idea
-304. 
-
+304. Health is the basis for you
 
