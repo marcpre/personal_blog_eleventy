@@ -317,4 +317,5 @@ Include images:
 304. Health is the basis for you
 305. with preselling you can generate capital without capital
 306. Work on longevity for yourself
-307. 
+307. In startup --> Fail fast and do experiments to check what is working and what not
+308. 
