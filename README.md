@@ -318,4 +318,5 @@ Include images:
 305. with preselling you can generate capital without capital
 306. Work on longevity for yourself
 307. In startup --> Fail fast and do experiments to check what is working and what not
-308. 
+308. clue.ly sales assistant that helps you sell more 8s the future, as it passes infos about the customer in the call to use it
+309. 
