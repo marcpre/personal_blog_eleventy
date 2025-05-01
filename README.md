@@ -320,4 +320,4 @@ Include images:
 307. In startup --> Fail fast and do experiments to check what is working and what not
 308. clue.ly sales assistant that helps you sell more 8s the future, as it passes infos about the customer in the call to use it
 309. Wenn Abverkauf von Wohnungen, dann Bauträger drücken die Rücklage und schnaltzen die wieder in die Höhe
-310. 
+310. Focus on potential bei der Immobilie heben - under-rent vs over-rent
