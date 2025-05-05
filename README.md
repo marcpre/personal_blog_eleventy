@@ -322,4 +322,4 @@ Include images:
 309. Wenn Abverkauf von Wohnungen, dann Bauträger drücken die Rücklage und schnaltzen die wieder in die Höhe
 310. Focus on potential bei der Immobilie heben - under-rent vs over-rent
 311. Blog Layouts I like - https://eieio.games/
-312. 
+312. Create a spreadsheet where you can daytrade - https://boredspreadsheet.com/sheet2
