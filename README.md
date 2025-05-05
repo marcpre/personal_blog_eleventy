@@ -321,3 +321,5 @@ Include images:
 308. clue.ly sales assistant that helps you sell more 8s the future, as it passes infos about the customer in the call to use it
 309. Wenn Abverkauf von Wohnungen, dann Bauträger drücken die Rücklage und schnaltzen die wieder in die Höhe
 310. Focus on potential bei der Immobilie heben - under-rent vs over-rent
+311. Blog Layouts I like - https://eieio.games/
+312. 
