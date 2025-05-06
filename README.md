@@ -323,3 +323,4 @@ Include images:
 310. Focus on potential bei der Immobilie heben - under-rent vs over-rent
 311. Blog Layouts I like - https://eieio.games/
 312. Create a spreadsheet where you can daytrade - https://boredspreadsheet.com/sheet2
+313. Every week Immobilien anbot abgeben!
