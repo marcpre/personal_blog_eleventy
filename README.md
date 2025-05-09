@@ -324,3 +324,5 @@ Include images:
 311. Blog Layouts I like - https://eieio.games/
 312. Create a spreadsheet where you can daytrade - https://boredspreadsheet.com/sheet2
 313. Every week Immobilien anbot abgeben!
+314. Embrace the Immo-Game!
+315. 
