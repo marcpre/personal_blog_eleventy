@@ -325,4 +325,5 @@ Include images:
 312. Create a spreadsheet where you can daytrade - https://boredspreadsheet.com/sheet2
 313. Every week Immobilien anbot abgeben!
 314. Embrace the Immo-Game!
-315. 
+315. Fixed times when to work on immos & company
+316. 
