@@ -326,4 +326,5 @@ Include images:
 313. Every week Immobilien anbot abgeben!
 314. Embrace the Immo-Game!
 315. Fixed times when to work on immos & company
-316. 
+316. 4-4-4 Atmung if you are in stressful situations
+317. 
