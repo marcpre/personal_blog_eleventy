@@ -328,4 +328,6 @@ Include images:
 315. Fixed times when to work on immos & company
 316. 4-4-4 Atmung if you are in stressful situations
 317. Outer body experience if you are in a stressful, hurtful conversation
+318. Learn technical day trading chart analysis
+
 
