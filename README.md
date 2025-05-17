@@ -331,5 +331,6 @@ Include images:
 318. Learn technical day trading chart analysis
 319. Make your aquisition process visible and outsource parts of it that are time consuming
 320. Setup weekly bets to increase trading account
+321. Automatize the marketing process for allefirmen.at
 
 
