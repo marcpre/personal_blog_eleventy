@@ -332,5 +332,6 @@ Include images:
 319. Make your aquisition process visible and outsource parts of it that are time consuming
 320. Setup weekly bets to increase trading account
 321. Automatize the marketing process for allefirmen.at
+322. Make your own processes visible and outsource, f.ex. use 1 inbox with labels
 
 
