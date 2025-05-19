@@ -333,5 +333,6 @@ Include images:
 320. Setup weekly bets to increase trading account
 321. Automatize the marketing process for allefirmen.at
 322. Make your own processes visible and outsource, f.ex. use 1 inbox with labels
+323. When trading take the money and take the profit
 
 
