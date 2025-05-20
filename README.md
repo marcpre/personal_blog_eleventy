@@ -334,5 +334,7 @@ Include images:
 321. Automatize the marketing process for allefirmen.at
 322. Make your own processes visible and outsource, f.ex. use 1 inbox with labels
 323. When trading take the money and take the profit
+324. Wenn du auf der counch liegst schläftst du automatisch ein
+325. 
 
 
