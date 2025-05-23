@@ -335,6 +335,7 @@ Include images:
 322. Make your own processes visible and outsource, f.ex. use 1 inbox with labels
 323. When trading take the money and take the profit
 324. Wenn du auf der counch liegst schläftst du automatisch ein
-325. 
+325. There is a way to create a high traffic website and automate the traffic generation
+326. 
 
 
