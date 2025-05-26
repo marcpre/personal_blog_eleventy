@@ -337,3 +337,5 @@ Include images:
 324. Wenn du auf der counch liegst schläftst du automatisch ein
 325. There is a way to create a high traffic website and automate the traffic generation
 326. Steuerliche Aspekte spielen bei Immos eine größere Rolle!
+327. Buying/Selling SaaS Apps or Websites
+328. 
