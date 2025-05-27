@@ -339,4 +339,5 @@ Include images:
 326. Steuerliche Aspekte spielen bei Immos eine größere Rolle!
 327. Buying/Selling SaaS Apps or Websites
 328. a bad trading entry makes only 500 bucks in 4 days
-329. 
+329. Focus to get better on things
+
