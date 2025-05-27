@@ -338,4 +338,5 @@ Include images:
 325. There is a way to create a high traffic website and automate the traffic generation
 326. Steuerliche Aspekte spielen bei Immos eine größere Rolle!
 327. Buying/Selling SaaS Apps or Websites
-328. 
+328. a bad trading entry makes only 500 bucks in 4 days
+329. 
