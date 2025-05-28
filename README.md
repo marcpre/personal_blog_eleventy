@@ -341,3 +341,5 @@ Include images:
 328. a bad trading entry makes only 500 bucks in 4 days
 329. Focus to get better on things
 
+
+
