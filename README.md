@@ -340,6 +340,7 @@ Include images:
 327. Buying/Selling SaaS Apps or Websites
 328. a bad trading entry makes only 500 bucks in 4 days
 329. Focus to get better on things
-
+330. take your time to reflect and slow down and it will make you stronger
+331. 
 
 
