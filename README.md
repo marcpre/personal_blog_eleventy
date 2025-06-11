@@ -343,5 +343,3 @@ Include images:
 330. take your time to reflect and slow down and it will make you stronger
 331. Good Domain should be rememberable!
 332. 2h of startup and you get a company
-
-
