@@ -342,6 +342,6 @@ Include images:
 329. Focus to get better on things
 330. take your time to reflect and slow down and it will make you stronger
 331. Good Domain should be rememberable!
-332. 
+332. 2h of startup and you get a company
 
 
