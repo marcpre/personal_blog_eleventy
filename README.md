@@ -347,4 +347,5 @@ Include images:
 334. Work it off
 335. Focus, focus, focus
 336. Coding everyday will bring your business forward
-337. 
+337. Auskurieren wenn du krank bist
+338. 
