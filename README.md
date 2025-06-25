@@ -348,4 +348,5 @@ Include images:
 335. Focus, focus, focus
 336. Coding everyday will bring your business forward
 337. Auskurieren wenn du krank bist
-338. 
+338. Share and distribute your ideas and get feedback
+339. 
