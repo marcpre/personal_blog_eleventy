@@ -352,7 +352,8 @@ Include images:
 339. Fokus, fokus, fokus
 340. Good ideas can change your life
 341. Fun is also needed in life to enjoy it!
-342. 
+342. if there is a service, people tend to use it if its overall good
+343. 
 
 
 
