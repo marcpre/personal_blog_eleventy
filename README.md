@@ -353,10 +353,7 @@ Include images:
 340. Good ideas can change your life
 341. Fun is also needed in life to enjoy it!
 342. if there is a service, people tend to use it if its overall good
-343. 
-
-
-
+343. Material ist das wichtigst, weil dann können die Einbauzeiten geblockt werden
 
 
 
