@@ -356,3 +356,4 @@ Include images:
 343. Material ist das wichtigst, weil dann können die Einbauzeiten geblockt werden
 344. Je weniger bei einer Wohnung zu tun ist, desto besser!
 345. Think in systems to scale well!
+346. 
