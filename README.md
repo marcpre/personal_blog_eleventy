@@ -357,3 +357,4 @@ Include images:
 344. Je weniger bei einer Wohnung zu tun ist, desto besser!
 345. Think in systems to scale well!
 346. Counch Verbot wenn du was weiterbringen willst!!
+347. 
