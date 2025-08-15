@@ -363,3 +363,7 @@ Include images:
 350. Detect the big swings in crypto trading!
 351. Idea: There is a coin for that on this website
 352. 
+
+
+
+
