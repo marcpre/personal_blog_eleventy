@@ -364,6 +364,3 @@ Include images:
 351. Idea: There is a coin for that on this website
 352. 
 
-
-
-
