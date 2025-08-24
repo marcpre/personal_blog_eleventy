@@ -363,7 +363,8 @@ Include images:
 350. Detect the big swings in crypto trading!
 351. Idea: There is a coin for that on this website
 352. Bau dir ein Hackler Netzwerk bei Immos auf!
-353. 
+353. Dehne deinen Nacken, damit du Verspannungs-Kopfweh vermeidest.
+354. 
 
 
 
