@@ -366,6 +366,3 @@ Include images:
 353. Dehne deinen Nacken, damit du Verspannungs-Kopfweh vermeidest.
 354. 
 
-
-
-
