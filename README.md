@@ -364,5 +364,6 @@ Include images:
 351. Idea: There is a coin for that on this website
 352. Bau dir ein Hackler Netzwerk bei Immos auf!
 353. Dehne deinen Nacken, damit du Verspannungs-Kopfweh vermeidest.
-354. 
+354. Let it behind and do not take work home. Forget it!
+355. 
 
