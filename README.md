@@ -365,7 +365,4 @@ Include images:
 352. Bau dir ein Hackler Netzwerk bei Immos auf!
 353. Dehne deinen Nacken, damit du Verspannungs-Kopfweh vermeidest.
 354. Let it behind and do not take work home. Forget it!
-355. 
-
-
-
+355. Stay quiet, some things are way too hard to break, like a mother and daugther bond
