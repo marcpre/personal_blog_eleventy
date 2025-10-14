@@ -371,5 +371,6 @@ Include images:
 358. Stay quiet and let others speak is a rule of you
 359. If you lay on couch then you will definitely fall asleep
 360. Hold until you get your money back in trading
-361. 
+361. How to not get banned on reddit
+362. 
 
