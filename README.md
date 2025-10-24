@@ -375,5 +375,7 @@ Include images:
 362. Business Idea: ChatGPT LLM Blocker Bot
 363. Improve everyday on your craft!
 364. JFDI!
+365. Bleib auf der Sache und lass dich emotional nicht mitreißen
+366. 
 
 
