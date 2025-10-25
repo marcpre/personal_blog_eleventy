@@ -376,6 +376,7 @@ Include images:
 363. Improve everyday on your craft!
 364. JFDI!
 365. Bleib auf der Sache und lass dich emotional nicht mitreißen
-366. 
+366. Improve everyday to get your wanted life!
+367. 
 
 
