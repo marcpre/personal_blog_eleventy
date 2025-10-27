@@ -377,6 +377,7 @@ Include images:
 364. JFDI!
 365. Bleib auf der Sache und lass dich emotional nicht mitreißen
 366. Improve everyday to get your wanted life!
-367. 
+367. **Beobachte und observiere um mal einen Eindruck zu bekommen, wer vor dir steht.**
+368. d
 
 
