@@ -380,3 +380,6 @@ Include images:
 367. **Beobachte und observiere um mal einen Eindruck zu bekommen, wer vor dir steht.**
 368. d
 
+
+
+
