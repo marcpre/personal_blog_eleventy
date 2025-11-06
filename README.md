@@ -379,5 +379,3 @@ Include images:
 366. Improve everyday to get your wanted life!
 367. **Beobachte und observiere um mal einen Eindruck zu bekommen, wer vor dir steht.**
 368. Eine dicke emotionale Haut zu haben ist gut!
-
-
