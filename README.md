@@ -380,4 +380,8 @@ Include images:
 367. **Beobachte und observiere um mal einen Eindruck zu bekommen, wer vor dir steht.**
 368. Eine dicke emotionale Haut zu haben ist gut!
 369. Keusch is the way to go
-370. 
+370. Mietvertragstemplate schnitzen
+371. 
+
+
+
