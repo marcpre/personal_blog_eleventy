@@ -383,5 +383,3 @@ Include images:
 370. Mietvertragstemplate schnitzen
 371. 
 
-
-
