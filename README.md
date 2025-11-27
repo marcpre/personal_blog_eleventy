@@ -384,5 +384,7 @@ Include images:
 371. Overtake subreddit!
 372. Wenn der Vorstand sich wieder so aufführt, fuck it. Du hast einen Plan. Nur noch ein paar Jahre, dann hast du dein Immo-Portfolio und bist free
 373. Daily traffic progress and testing is the way to keep moving forward
-374. 
+374. Consistency is king!
+
+
 
