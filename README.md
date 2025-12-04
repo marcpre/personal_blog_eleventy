@@ -388,9 +388,3 @@ Include images:
 375. Fast iteration cycles!
 
 
-
-
-
-
-
-
