@@ -386,3 +386,4 @@ Include images:
 373. Daily traffic progress and testing is the way to keep moving forward
 374. Consistency is king!
 375. Fast iteration cycles!
+276. Kläre die Erwartungshaltung mit deiner Führungskraft
