@@ -387,3 +387,4 @@ Include images:
 374. Consistency is king!
 375. Fast iteration cycles!
 276. Kläre die Erwartungshaltung mit deiner Führungskraft
+277. 
