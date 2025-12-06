@@ -386,5 +386,3 @@ Include images:
 373. Daily traffic progress and testing is the way to keep moving forward
 374. Consistency is king!
 375. Fast iteration cycles!
-
-
