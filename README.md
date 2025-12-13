@@ -387,7 +387,6 @@ Include images:
 374. Consistency is king!
 375. Fast iteration cycles!
 376. Kläre die Erwartungshaltung mit deiner Führungskraft
-377. 
-
-
+377. Creating a second option is always worth the effort and gives you the flexibility of "fuck you"
+378. 
 
