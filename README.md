@@ -389,5 +389,6 @@ Include images:
 376. Kläre die Erwartungshaltung mit deiner Führungskraft
 377. Creating a second option is always worth the effort and gives you the flexibility of "fuck you"
 378. If it goes against your health, think twice if you do it further
-379. 
+379. https://oenb.shinyapps.io/wohnimmobilien_dashboard/ --> Dashboard für Immo Markt
+380. 
 
