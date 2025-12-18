@@ -392,6 +392,3 @@ Include images:
 379. https://oenb.shinyapps.io/wohnimmobilien_dashboard/ --> Dashboard für Immo Markt
 380. 
 
-
-
-
