@@ -390,5 +390,6 @@ Include images:
 377. Creating a second option is always worth the effort and gives you the flexibility of "fuck you"
 378. If it goes against your health, think twice if you do it further
 379. https://oenb.shinyapps.io/wohnimmobilien_dashboard/ --> Dashboard für Immo Markt
-380. 
+380. Find sth that gives you cashflow and makes you indepentend
+
 
