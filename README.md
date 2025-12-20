@@ -391,5 +391,7 @@ Include images:
 378. If it goes against your health, think twice if you do it further
 379. https://oenb.shinyapps.io/wohnimmobilien_dashboard/ --> Dashboard für Immo Markt
 380. Find sth that gives you cashflow and makes you indepentend
+381. Take a moment of time and enjoy what you have, then you will find where to go from there!
+382. 
 
 
