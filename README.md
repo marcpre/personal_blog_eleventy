@@ -391,5 +391,8 @@ Include images:
 378. If it goes against your health, think twice if you do it further
 379. https://oenb.shinyapps.io/wohnimmobilien_dashboard/ --> Dashboard für Immo Markt
 380. Find sth that gives you cashflow and makes you indepentend
+381. What are ways to open source AI
+382. What are news aggregator websites that can be used - without lots of restrictions - to promote content
+383. Build a tool for learning spanish on you smartphone on the fly
 
 
