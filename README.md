@@ -395,5 +395,7 @@ Include images:
 382. What are news aggregator websites that can be used - without lots of restrictions - to promote content
 383. Build a tool for learning spanish on you smartphone on the fly
 384. Lets build an internet that is only for AI
+385. Take a moment of time and enjoy what you have, then you will find where to go from there!
+386. 
 
 
