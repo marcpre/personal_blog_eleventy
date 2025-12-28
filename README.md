@@ -399,4 +399,6 @@ Include images:
 386. Ein ChatGPT Plugin was deine partie analysiert und dir guided recommendations macht
 387. Music and Art is a way to feel dangerous emotions in a secure setting
 388. Recreate an old website such as paperswithcode and capture traffic
-389. 
+389. In der Kommunikation: Die beste Technik ist die, die man nicht merkt.
+390. 
+
