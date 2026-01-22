@@ -402,5 +402,5 @@ Include images:
 389. In der Kommunikation: Die beste Technik ist die, die man nicht merkt.
 390. You decide your life and how it is going. You are an entrepreneur and in the long run you will work for yourself. You will build this besides your job.
 391. Wie kann ich meiner Frau im Alltag wertschätzung geben?
-392. 
-
+392. Lege die politischen Karten so, dass du zum Zug kommst
+393. 
