@@ -405,4 +405,5 @@ Include images:
 392. Lege die politischen Karten so, dass du zum Zug kommst
 393. use simple tools instad of complicated installs
 394. React slow and act fast when interacting
-395. 
+395. OpenClaw ai bot - Scrape WillHaben and find investment properties
+396. 
