@@ -408,5 +408,3 @@ Include images:
 395. OpenClaw ai bot - Scrape WillHaben and find investment properties
 396. The nearer you are at the power the easier it is to rise 
 
-
-
