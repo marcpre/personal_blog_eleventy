@@ -419,6 +419,3 @@ Include images:
 406. Stay calm, breath in negotiations!
 407. They want sth from you to get you away, never forget that! (RLB NÖ-W)
 
-
-
-
